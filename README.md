@@ -129,5 +129,6 @@ CODE:
     </body>
 </html>
 OUTPUT:
-![image](https://github.com/harinianand21/Ex-06-Book-Cover-Design/assets/145742813/23f77d43-ff15-4cd6-b64d-6a7130161d88)
 
+
+![Screenshot 2023-12-31 110252](https://github.com/harinianand21/Ex-06-Book-Cover-Design/assets/145742813/10f2f9e3-7d10-4364-8d18-569c80f8ef05)
